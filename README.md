@@ -1,4 +1,4 @@
-# 🪃 VelocityCode Solution
+# 🪃 VelocityCode Solutions
 > 💚 Official repository
 
 
