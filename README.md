@@ -18,5 +18,5 @@ and we are always informed of new and popular problems, all in order to offer th
 
 **Startup CEOs**
 
-🧪 Software Enginer -> Milena
-🧪 Software Enginer -> Guilherme
+- 🧪 Software Engineer -> Milena
+- 🧪 Software Engineer -> Guilherme
