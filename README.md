@@ -1,5 +1,5 @@
 # 🪃 VelocityCode Solution
-> 💚 Oficial repository
+> 💚 Official repository
 
 
 **About us**
