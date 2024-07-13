@@ -1,5 +1,5 @@
 # 🪃 VelocityCode Solution
-> Oficial repository
+> 💚 Oficial repository
 
 **About us**
 🤝 We are VelocityCode Solutions, a startup that aims to help you achieve your dream of a successful project.
