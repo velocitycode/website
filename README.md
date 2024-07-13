@@ -16,7 +16,5 @@ We are always improving ourselves so that we can bring the best features we can 
 🔧 With our years of experience in complex projects, we have obtained a range of knowledge based on some real problems,
 and we are always informed of new and popular problems, all in order to offer the best service to our customers.
 
-**Startup CEOs**
-
-- 🧪 Software Engineer -> Milena
-- 🧪 Software Engineer -> Guilherme
+**Contact us**
+🧪 Element.io : https://element.io
